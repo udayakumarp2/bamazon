@@ -11,8 +11,7 @@ Total inventory is decreased and the user receives a message.
 
 This is what happens when a client enters a prodcut that doesn't exits. 
 
-![GitHub Logo](/NotWorking.png)
-Format: ![Alt Text](url)
+![notworking](https://user-images.githubusercontent.com/31020465/39271991-a6eecd1c-48a8-11e8-8736-38bb50187ebb.PNG)
 
 -----------------------------------------------------------
 This is what happens when the customer quits the application. 
